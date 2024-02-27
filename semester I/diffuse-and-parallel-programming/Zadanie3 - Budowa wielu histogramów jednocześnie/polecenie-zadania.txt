@@ -1,0 +1,21 @@
+Na czym polega problem?
+Tworzymy system umożliwiający generowanie wielu histogramów w tym samym czasie przez wielu równoczesnych użytkowników.
+
+System ma być aplikacją rozproszoną, gdzie serwer ma odpowiadać za budowę histogramów a użytkownicy (klienci) za dostarczanie danych.
+
+Komunikacja
+Klient tworzy histogram. Uzyskuje unikalny identyfikator histogramu.
+Klient przekazuje dane dla histogramu. Każdorazowa przekazywany jest identyfikator histogramu, aby powiązać daną z histogramem.
+Klient odbiera histogram o wskazanym numerze identyfikacyjnym.
+Powyższe może być wykonywane przez wielu klientów jednocześnie.
+
+Założenia
+Przed pierwszym użyciem serwis zostanie zarejestrowany (bind)
+Przed przekazaniem pierwszej danej utworzony zostanie histogram
+Przekazywane przez klienta dane będą pasować do liczby kubełków danego histogramu (dozwolone od 0 do bins-1)
+Metoda getHistogram nie zostanie wykonana przed utworzeniem histogramu
+Generalnie, klient będzie posługiwał się wyłącznie poprawnymi numerami histogramów.
+Dostarczanie rozwiązania
+Proszę o dostarczenie kodu źródłowego klasy RMIHistogram. W klasie można umieścić własne metody i pola. Klasa ma implementować interfejsy RemoteHistogram i Binder. Sama część usługowa RMI to pierwszy z interfejsów, drugi odpowiada wyłącznie za możliwość przekazania do Państawa kodu zlecenia rejestracji w rmiregistry.
+
+Uwaga: proszę nie tworzyć samodzielnie rmiregistry w swoim programie!
