@@ -1,0 +1,22 @@
+Idea
+Program prowadzi symulację za pomocą dynamiki molekularnej pewnej liczby czątek oddziałujących na siebie pewną siła.
+
+Wersja sekwencyjna kodu
+Kod sekwencyjny jest załączony. Trzeba poddać go modyfikacjom za pomocą OpenMP.
+
+Zadanie
+Zadanie polega na użyciu OpenMP w celu przyspieszenia obliczeń.
+Modyfikacjom ma zostać poddany wyłącznie kod znajdujący się w klasie Simulation.
+
+
+Wymagania dla aplikacji równoległej
+
+Wersja równoległa i sekwencyjna muszą dawać ten sam wynik.
+Przyspieszyć należy wszystkie nadające się do zrównoleglenia metody klasy Simulation. Koniecznie trzeba zadbać o szybsze działanie samej symulacji i krótszy czas realizacji metod pairDistribution i avgMinDistance.
+Proszę nie zmieniać algorytmu/optymalizować pracy programu. Czas wykonania sekwencyjnej wersji oryginalnego kodu i po Państwa poprawkach ma być zbliżony. Poprawa szybkości pracy ma być związana ze zrównolegleniem kodu.
+Dodatkowe wątki mają przyspieszać obliczenia!
+Proszę nie zmieniać liczby tworzonych wątków. Ma działać ich dokładnie tyle, ile zostanie ustalone poprzez zmienną środowiskową OMP_NUM_THREADS.
+Program ma działać efektywnie - tj. dostając do dyspozycji kolejne rdzenie ma skracać czas potrzebny do uzyskania efektu.
+
+Dostarczanie rozwiązania:
+Rozwiązanie to klasa Simulation
