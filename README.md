@@ -1,11 +1,11 @@
 # Jagiellonian University - Applied Computer Science, Second-cycle studies (master's degree)
 
-## Semestr I 2023/24
+## [Semestr I 2023/24](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20I)
 
 * Computer-Aided Design
    * Lecture: Ewa Grabska
    * Class: Iwona Grabska-Gradzińska
-* Diffuse and Parallel Programming
+* [Diffuse and Parallel Programming](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20I/diffuse-and-parallel-programming)
    * Lecture: Piotr Oramus
    * Class: Piotr Oramus
 * Script Language Laboratory
