@@ -16,5 +16,5 @@
 * Project Management
    * Lecture: Marcin Gomoła
    * Class: Marcin Gomoła
-* Specialisation Seminar I
+* [Specialisation Seminar I](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20I/specialisation-seminar-I)
    * Seminar: Anna Sochocka
