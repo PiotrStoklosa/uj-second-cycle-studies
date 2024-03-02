@@ -18,3 +18,22 @@
    * Class: Marcin Gomoła
 * [Specialisation Seminar I](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20I/specialisation-seminar-I)
    * Seminar: Anna Sochocka
+## [Semestr II 2023/24](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20II)
+
+* E-business
+   * Laboratory class: Karol Przystalski
+* Web Applications Designing
+   * Lecture: Maciej Hendzel
+   * Class: Maciej Hendzel
+* User interface design
+   * Laboratory class: Piotr Soska
+* Object Oriented Software
+   * Lecture: Piotr Oramus
+   * Class: Piotr Oramus
+* Machine Learning
+   * Lecture: Grzegorz Surówka
+   * Class: Grzegorz Surówka
+* Specialisation Seminar II
+   * Seminar: Anna Sochocka
+* Group Programming Laboratory
+   * Laboratory class: Piotr Pawłowski
