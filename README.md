@@ -9,8 +9,8 @@
    * Lecture: Piotr Oramus
    * Class: Piotr Oramus
 * Script Language Laboratory
-    * Laboratory class: Karol Przystalski
- * Statistical Methods
+   * Laboratory class: Karol Przystalski
+* [Statistical Methods](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20I/statistical-methods)
    * Lecture: Kacper Topolnicki
    * Class:	Szymon Parzych
 * Project Management
