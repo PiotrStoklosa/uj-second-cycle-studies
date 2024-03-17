@@ -20,7 +20,7 @@
    * Seminar: Anna Sochocka
 ## [Semestr II 2023/24](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20II)
 
-* E-business
+* [E-business](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20II/e-business)
    * Laboratory class: Karol Przystalski
 * Web Applications Designing
    * Lecture: Maciej Hendzel
