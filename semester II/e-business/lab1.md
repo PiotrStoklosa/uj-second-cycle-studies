@@ -1,3 +1,5 @@
+**Zadanie 1 Docker**
+
 Należy stworzyć obraz oraz umieścić obraz na hub.docker.com, a Dockerfile na githubie.
 
 * Obraz ubuntu:22.04 z Javą w wersji 8 oraz Kotlinem
