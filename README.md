@@ -18,6 +18,7 @@
    * Class: Marcin Gomoła
 * [Specialisation Seminar I](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20I/specialisation-seminar-I)
    * Seminar: Anna Sochocka
+
 ## [Semestr II 2023/24](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20II)
 
 * [E-business](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20II/e-business)
@@ -37,3 +38,20 @@
    * Seminar: Anna Sochocka
 * Group Programming Laboratory
    * Laboratory class: Piotr Pawłowski
+ 
+## [Semestr III 2024/25](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20III)
+
+* Advanced grafical interfaces
+   * Lecture: Adam Górski
+   * Class: Adam Górski
+* Basics of 2D graphics and its applications in games
+   * Lecture: Adam Górski
+   * Class: Adam Górski
+* Deep Learning
+   * Lecture: Grzegorz Surówka
+   * Class: Grzegorz Surówka
+* Diploma Seminar I
+   * Seminar: Anna Sochocka
+* Network Security
+   * Lecture: Grzegorz Surówka
+   * Class: Grzegorz Surówka
