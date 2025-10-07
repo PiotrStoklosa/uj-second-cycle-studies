@@ -64,7 +64,7 @@
 - Polish and international copyright
   - Lecture: Nicholas Ghazal, Bohdan Widła
   - Class: Nicholas Ghazal, Bohdan Widła
-- Object Oriented Software
+- [Object Oriented Software](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20IV/object-oriented-software)
   - Lecture: Piotr Oramus
   - Class: Piotr Oramus
 - [Diploma Seminar II](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20IV/diploma-seminar-II)
