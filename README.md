@@ -67,7 +67,7 @@
 - Object Oriented Software
   - Lecture: Piotr Oramus
   - Class: Piotr Oramus
-- Diploma Seminar II
+- [Diploma Seminar II](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20IV/diploma-seminar-II)
   - Seminar: Anna Sochocka
 - Diploma Laboratory
   - Laboratory class: Anna Sochocka
