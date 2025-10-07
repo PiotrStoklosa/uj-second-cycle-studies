@@ -1,0 +1,40 @@
+﻿<Page
+    x:Class="BattleshipGame.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BattleshipGame"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Grid x:Name="PlayerBoard" Grid.Column="0" Margin="10" Background="LightGray">
+        </Grid>
+
+        <Grid x:Name="OpponentBoard" Grid.Column="1" Margin="10" Background="Gray">
+        </Grid>
+
+        <Button x:Name="ConfirmShipsButton" 
+                Grid.Row="1" Grid.ColumnSpan="2"
+                Content="Zatwierdź statki" 
+                Margin="10" 
+                HorizontalAlignment="Center"
+                Click="OnConfirmShipsClicked" />
+
+        <TextBlock x:Name="TurnText" 
+                   Grid.Row="1" Grid.ColumnSpan="2" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center" 
+                   FontSize="24" 
+                   Visibility="Collapsed" />
+    </Grid>
+</Page>

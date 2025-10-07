@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippet Format="1.0.0">
+	<Header>
+		<Title>PowitanieMetoda</Title>
+		<Shortcut>powitanie</Shortcut>
+		<Description>Metoda przyjmująca imię i nazwisko oraz wypisująca powitanie</Description>
+		<Author>Piotr</Author>
+		<SnippetTypes>
+			<SnippetType>Expansion</SnippetType>
+		</SnippetTypes>
+	</Header>
+	<Snippet>
+		<Declarations>
+			<Literal>
+				<ID>nazwa</ID>
+				<Default>Hello</Default>
+				<Tooltip>Nazwa metody</Tooltip>
+			</Literal>
+		</Declarations>
+		<Code Language="CSharp">
+			<![CDATA[
+public void $nazwa$(string imie, string nazwisko)
+{
+    Console.WriteLine("Cześć " + imie + " " + nazwisko + "!");
+}
+      ]]>
+		</Code>
+	</Snippet>
+</CodeSnippet>

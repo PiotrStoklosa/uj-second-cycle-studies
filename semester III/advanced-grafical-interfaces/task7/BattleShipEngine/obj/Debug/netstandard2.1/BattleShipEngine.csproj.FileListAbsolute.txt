@@ -1,0 +1,10 @@
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\BattleShipEngine\bin\Debug\netstandard2.1\BattleShipEngine.deps.json
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\BattleShipEngine\bin\Debug\netstandard2.1\BattleShipEngine.dll
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\BattleShipEngine\bin\Debug\netstandard2.1\BattleShipEngine.pdb
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\BattleShipEngine\obj\Debug\netstandard2.1\BattleShipEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\BattleShipEngine\obj\Debug\netstandard2.1\BattleShipEngine.AssemblyInfoInputs.cache
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\BattleShipEngine\obj\Debug\netstandard2.1\BattleShipEngine.AssemblyInfo.cs
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\BattleShipEngine\obj\Debug\netstandard2.1\BattleShipEngine.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\BattleShipEngine\obj\Debug\netstandard2.1\BattleShipEngine.sourcelink.json
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\BattleShipEngine\obj\Debug\netstandard2.1\BattleShipEngine.dll
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\BattleShipEngine\obj\Debug\netstandard2.1\BattleShipEngine.pdb

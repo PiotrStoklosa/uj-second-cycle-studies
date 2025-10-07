@@ -1,0 +1,14 @@
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task16\16\bin\Release\16.exe.config
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task16\16\bin\Release\16.exe
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task16\16\bin\Release\16.pdb
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task16\16\obj\Release\16.csproj.AssemblyReference.cache
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task16\16\obj\Release\MainWindow.baml
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task16\16\obj\Release\MainWindow.g.cs
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task16\16\obj\Release\App.g.cs
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task16\16\obj\Release\16_MarkupCompile.cache
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task16\16\obj\Release\16.g.resources
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task16\16\obj\Release\_16.Properties.Resources.resources
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task16\16\obj\Release\16.csproj.GenerateResource.cache
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task16\16\obj\Release\16.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task16\16\obj\Release\16.exe
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task16\16\obj\Release\16.pdb

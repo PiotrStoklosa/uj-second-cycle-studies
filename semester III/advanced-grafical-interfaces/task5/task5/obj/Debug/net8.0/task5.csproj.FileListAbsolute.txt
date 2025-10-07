@@ -1,0 +1,15 @@
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task5\task5\bin\Debug\net8.0\task5.exe
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task5\task5\bin\Debug\net8.0\task5.deps.json
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task5\task5\bin\Debug\net8.0\task5.runtimeconfig.json
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task5\task5\bin\Debug\net8.0\task5.dll
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task5\task5\bin\Debug\net8.0\task5.pdb
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task5\task5\obj\Debug\net8.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task5\task5\obj\Debug\net8.0\task5.AssemblyInfoInputs.cache
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task5\task5\obj\Debug\net8.0\task5.AssemblyInfo.cs
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task5\task5\obj\Debug\net8.0\task5.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task5\task5\obj\Debug\net8.0\task5.sourcelink.json
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task5\task5\obj\Debug\net8.0\task5.dll
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task5\task5\obj\Debug\net8.0\refint\task5.dll
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task5\task5\obj\Debug\net8.0\task5.pdb
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task5\task5\obj\Debug\net8.0\task5.genruntimeconfig.cache
+C:\Users\Piotr\OneDrive\Pulpit\Studia\uj-second-cycle-studies\semester III\advanced-grafical-interfaces\task5\task5\obj\Debug\net8.0\ref\task5.dll

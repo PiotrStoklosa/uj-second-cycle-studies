@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Piotr\\OneDrive\\Pulpit\\Studia\\uj-second-cycle-studies\\semester III\\advanced-grafical-interfaces\\BattleShipEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{354680F0-6985-4BFC-BBD7-3126B41536C3}|BattleshipEngine.csproj|c:\\users\\piotr\\onedrive\\pulpit\\studia\\uj-second-cycle-studies\\semester iii\\advanced-grafical-interfaces\\battleshipengine\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354680F0-6985-4BFC-BBD7-3126B41536C3}|BattleshipEngine.csproj|solutionrelative:gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354680F0-6985-4BFC-BBD7-3126B41536C3}|BattleshipEngine.csproj|c:\\users\\piotr\\onedrive\\pulpit\\studia\\uj-second-cycle-studies\\semester iii\\advanced-grafical-interfaces\\battleshipengine\\playerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354680F0-6985-4BFC-BBD7-3126B41536C3}|BattleshipEngine.csproj|solutionrelative:playerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354680F0-6985-4BFC-BBD7-3126B41536C3}|BattleshipEngine.csproj|c:\\users\\piotr\\onedrive\\pulpit\\studia\\uj-second-cycle-studies\\semester iii\\advanced-grafical-interfaces\\battleshipengine\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354680F0-6985-4BFC-BBD7-3126B41536C3}|BattleshipEngine.csproj|solutionrelative:ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354680F0-6985-4BFC-BBD7-3126B41536C3}|BattleshipEngine.csproj|c:\\users\\piotr\\onedrive\\pulpit\\studia\\uj-second-cycle-studies\\semester iii\\advanced-grafical-interfaces\\battleshipengine\\tilestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354680F0-6985-4BFC-BBD7-3126B41536C3}|BattleshipEngine.csproj|solutionrelative:tilestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354680F0-6985-4BFC-BBD7-3126B41536C3}|BattleshipEngine.csproj|c:\\users\\piotr\\onedrive\\pulpit\\studia\\uj-second-cycle-studies\\semester iii\\advanced-grafical-interfaces\\battleshipengine\\shipgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354680F0-6985-4BFC-BBD7-3126B41536C3}|BattleshipEngine.csproj|solutionrelative:shipgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Piotr\\OneDrive\\Pulpit\\Studia\\uj-second-cycle-studies\\semester III\\advanced-grafical-interfaces\\BattleShipEngine\\GameEngine.cs",
+              "RelativeDocumentMoniker": "GameEngine.cs",
+              "ToolTip": "C:\\Users\\Piotr\\OneDrive\\Pulpit\\Studia\\uj-second-cycle-studies\\semester III\\advanced-grafical-interfaces\\BattleShipEngine\\GameEngine.cs",
+              "RelativeToolTip": "GameEngine.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAUwAgBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:12:12.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Piotr\\OneDrive\\Pulpit\\Studia\\uj-second-cycle-studies\\semester III\\advanced-grafical-interfaces\\BattleShipEngine\\PlayerResponse.cs",
+              "RelativeDocumentMoniker": "PlayerResponse.cs",
+              "ToolTip": "C:\\Users\\Piotr\\OneDrive\\Pulpit\\Studia\\uj-second-cycle-studies\\semester III\\advanced-grafical-interfaces\\BattleShipEngine\\PlayerResponse.cs",
+              "RelativeToolTip": "PlayerResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:12:10.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\Piotr\\OneDrive\\Pulpit\\Studia\\uj-second-cycle-studies\\semester III\\advanced-grafical-interfaces\\BattleShipEngine\\Ship.cs",
+              "RelativeDocumentMoniker": "Ship.cs",
+              "ToolTip": "C:\\Users\\Piotr\\OneDrive\\Pulpit\\Studia\\uj-second-cycle-studies\\semester III\\advanced-grafical-interfaces\\BattleShipEngine\\Ship.cs",
+              "RelativeToolTip": "Ship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:12:09.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShipGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Piotr\\OneDrive\\Pulpit\\Studia\\uj-second-cycle-studies\\semester III\\advanced-grafical-interfaces\\BattleShipEngine\\ShipGenerator.cs",
+              "RelativeDocumentMoniker": "ShipGenerator.cs",
+              "ToolTip": "C:\\Users\\Piotr\\OneDrive\\Pulpit\\Studia\\uj-second-cycle-studies\\semester III\\advanced-grafical-interfaces\\BattleShipEngine\\ShipGenerator.cs",
+              "RelativeToolTip": "ShipGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:12:07.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TileState.cs",
+              "DocumentMoniker": "C:\\Users\\Piotr\\OneDrive\\Pulpit\\Studia\\uj-second-cycle-studies\\semester III\\advanced-grafical-interfaces\\BattleShipEngine\\TileState.cs",
+              "RelativeDocumentMoniker": "TileState.cs",
+              "ToolTip": "C:\\Users\\Piotr\\OneDrive\\Pulpit\\Studia\\uj-second-cycle-studies\\semester III\\advanced-grafical-interfaces\\BattleShipEngine\\TileState.cs",
+              "RelativeToolTip": "TileState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:12:02.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

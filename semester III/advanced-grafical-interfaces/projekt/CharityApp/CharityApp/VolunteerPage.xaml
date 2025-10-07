@@ -1,0 +1,88 @@
+﻿<Page x:Class="CharityApp.VolunteerPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="using:CharityApp">
+
+    <Grid Background="LightGray">
+        <Button Content="Wyloguj"
+                Click="OnLogoutClick"
+                Background="Transparent"
+                Foreground="DarkSlateGray"
+                FontSize="16"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Top"
+                Margin="10"/>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="20">
+            <TextBlock Text="Panel Wolontariusza"
+                       FontSize="32"
+                       FontWeight="SemiBold"
+                       Foreground="DarkSlateGray"
+                       TextAlignment="Center"
+                       Margin="0,20,0,10"/>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Button Content="Pobierz puszkę"
+                        Click="OnPickupButtonClick"
+                        Background="DarkSlateGray"
+                        Foreground="White"
+                        Width="300"
+                        Height="50"
+                        FontSize="20"
+                        x:Name="PickupButton"
+                        Visibility="Visible"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"/>
+
+                <Button Content="Zwróć puszkę"
+                        Click="OnReturnButtonClick"
+                        Background="DarkSlateGray"
+                        Foreground="White"
+                        Width="300"
+                        Height="50"
+                        FontSize="20"
+                        x:Name="ReturnButton"
+                        Visibility="Collapsed"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"/>
+            </Grid>
+
+            <TextBlock x:Name="MessageTextBlock"
+                       Text=""
+                       FontSize="18"
+                       Foreground="Red"
+                       HorizontalAlignment="Center"
+                       Margin="0,20,0,200"/>
+
+            <StackPanel x:Name="VolunteerData" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="20">
+
+                <TextBlock Text="Dane Wolontariusza:"
+                           FontSize="32"
+                           FontWeight="SemiBold"
+                           Foreground="DarkSlateGray"
+                           TextAlignment="Center"
+                           Margin="0,10,0,0"/>
+                <TextBlock>
+                    <Run Text="Imię i nazwisko: "/>
+                    <Run Text="{Binding Name}" />
+                </TextBlock>
+                <TextBlock>
+                    <Run Text="Nazwa: "/>
+                    <Run Text="{Binding Credentials.Username}" />
+                </TextBlock>
+                <TextBlock>
+                    <Run Text="Lokalizacja zbiórki: "/>
+                    <Run Text="{Binding Location}" />
+                </TextBlock>
+                <TextBlock>
+                    <Run Text="Czas zbiórki: "/>
+                    <Run Text="{Binding DateAndTime}" />
+                </TextBlock>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

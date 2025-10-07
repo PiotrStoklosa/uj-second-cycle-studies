@@ -1,0 +1,10 @@
+C:\Users\Piotr\OneDrive\Pulpit\Statki\BattleShipEngine\bin\Debug\netstandard2.0\BattleShipEngine.deps.json
+C:\Users\Piotr\OneDrive\Pulpit\Statki\BattleShipEngine\bin\Debug\netstandard2.0\BattleShipEngine.dll
+C:\Users\Piotr\OneDrive\Pulpit\Statki\BattleShipEngine\bin\Debug\netstandard2.0\BattleShipEngine.pdb
+C:\Users\Piotr\OneDrive\Pulpit\Statki\BattleShipEngine\obj\Debug\netstandard2.0\BattleShipEngine.csproj.AssemblyReference.cache
+C:\Users\Piotr\OneDrive\Pulpit\Statki\BattleShipEngine\obj\Debug\netstandard2.0\BattleShipEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\OneDrive\Pulpit\Statki\BattleShipEngine\obj\Debug\netstandard2.0\BattleShipEngine.AssemblyInfoInputs.cache
+C:\Users\Piotr\OneDrive\Pulpit\Statki\BattleShipEngine\obj\Debug\netstandard2.0\BattleShipEngine.AssemblyInfo.cs
+C:\Users\Piotr\OneDrive\Pulpit\Statki\BattleShipEngine\obj\Debug\netstandard2.0\BattleShipEngine.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\OneDrive\Pulpit\Statki\BattleShipEngine\obj\Debug\netstandard2.0\BattleShipEngine.dll
+C:\Users\Piotr\OneDrive\Pulpit\Statki\BattleShipEngine\obj\Debug\netstandard2.0\BattleShipEngine.pdb

@@ -1,0 +1,48 @@
+﻿<Page
+    x:Class="CharityApp.AddAdminPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CharityApp">
+
+    <Grid Background="White">
+        <Button Content="← Powrót"
+                Click="OnBackButtonClick"
+                Background="Transparent"
+                Foreground="DarkSlateGray"
+                FontSize="16"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Margin="10"/>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="15" Width="400">
+            <TextBlock Text="Dodaj nowego admina"
+                       FontSize="28"
+                       FontWeight="Bold"
+                       Foreground="DarkSlateGray"
+                       TextAlignment="Center"/>
+
+            <TextBox x:Name="FirstNameTextBox" PlaceholderText="Imię" Width="400"/>
+            <TextBox x:Name="LastNameTextBox" PlaceholderText="Nazwisko" Width="400"/>
+            <TextBox x:Name="PeselTextBox" PlaceholderText="PESEL" Width="400"/>
+            <TextBox x:Name="RegionTextBox" PlaceholderText="Okręg" Width="400"/>
+            <TextBox x:Name="LoginTextBox" PlaceholderText="Login" Width="400"/>
+            <PasswordBox x:Name="PasswordBox" PlaceholderText="Hasło" Width="400"/>
+
+            <Button Content="Dodaj admina"
+                    Click="OnAddAdminClick"
+                    Background="DarkSlateGray"
+                    Foreground="White"
+                    Width="400"
+                    Height="50"/>
+
+            <TextBlock x:Name="MessageTextBlock" 
+           Text="" 
+           Foreground="Red" 
+           FontSize="18" 
+           TextAlignment="Center" 
+           TextWrapping="Wrap" 
+           Width="400"/>
+
+        </StackPanel>
+    </Grid>
+</Page>

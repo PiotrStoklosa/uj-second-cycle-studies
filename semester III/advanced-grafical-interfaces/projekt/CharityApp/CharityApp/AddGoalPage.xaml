@@ -1,0 +1,45 @@
+﻿<Page
+    x:Class="CharityApp.AddGoalPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CharityApp">
+
+    <Grid Background="White">
+        <Button Content="← Powrót"
+                Click="OnBackButtonClick"
+                Background="Transparent"
+                Foreground="DarkSlateGray"
+                FontSize="16"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Margin="10"/>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="15" Width="400">
+            <TextBlock Text="Dodaj cel"
+                       FontSize="28"
+                       FontWeight="Bold"
+                       Foreground="DarkSlateGray"
+                       TextAlignment="Center"/>
+
+            <TextBox x:Name="GoalNameTextBox" PlaceholderText="Nazwa celu" Width="400"/>
+            <TextBox x:Name="DescriptionTextBox" PlaceholderText="Opis celu" Width="400"/>
+            <TextBox x:Name="AmountTextBox" PlaceholderText="Kwota w PLN" InputScope="Number" TextChanged="AmountTextBoxTextChanged" Width="400"/>
+            <TextBox x:Name="BankAccountTextBox" PlaceholderText="Numer konta bankowego" Width="400"/>
+
+            <Button Content="Dodaj cel"
+                    Click="OnAddGoalClick"
+                    Background="DarkSlateGray"
+                    Foreground="White"
+                    Width="400"
+                    Height="50"/>
+
+            <TextBlock x:Name="MessageTextBlock"
+                       Text=""
+                       Foreground="Red"
+                       FontSize="18"
+                       TextAlignment="Center"
+                       Margin="-50 0 0 0"
+                       Width="500"/>
+        </StackPanel>
+    </Grid>
+</Page>
