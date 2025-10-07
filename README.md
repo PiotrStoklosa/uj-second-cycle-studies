@@ -69,5 +69,5 @@
   - Class: Piotr Oramus
 - [Diploma Seminar II](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20IV/diploma-seminar-II)
   - Seminar: Anna Sochocka
-- Diploma Laboratory
+- [Diploma Laboratory](https://github.com/PiotrStoklosa/uj-second-cycle-studies/tree/main/semester%20IV/diploma-laboratory)
   - Laboratory class: Anna Sochocka
